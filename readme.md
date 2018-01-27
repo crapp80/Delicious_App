@@ -1,8 +1,12 @@
-## What is this?
+# Now that's delicious - Node App
+## Wes Bos - Learn Node Course Project
 
-Just you wait folks!
+The App is deployed on Now, follow this [link](https://dang-thats-delicious-zvdxbstzhl.now.sh/) to visit it.
 
-## Sample Data
+If you want to run it locally, run "npm start" from your command-line.
+
+## Addtional information
+### Sample Data
 
 To load sample data, run the following command in your terminal:
 
@@ -23,5 +27,3 @@ That will populate 16 stores with 3 authors and 41 reviews. The logins for the a
 |Wes Bos|wes@example.com|wes|
 |Debbie Downer|debbie@example.com|debbie|
 |Beau|beau@example.com|beau|
-
-
